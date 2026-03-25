@@ -15,4 +15,4 @@ A simple React + Vite + Tailwind project that fetches random quotes from an API.
 - Axios
 
 ## Live Demo
-[Add your Vercel/Netlify link here]
+[[Random Quote Generator]](https://random-quote-generator-tawny-sigma.vercel.app/)
